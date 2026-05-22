@@ -1,4 +1,4 @@
-# rcc-lucas
+# RCC - Lucas
 
 Personal automation workspace inspired by the work done at [Reliable Controls Corporation](https://www.rcontrols.com) — a Utah-based leader in industrial automation and controls for the mining and energy sectors.
 
